@@ -20,4 +20,5 @@ Project Structure
 
     Predictive Pricing Model: Builds and evaluates a machine learning model to predict flight prices.
 
+
     Strategic Insights and Recommendations: Synthesizes key findings and provides actionable recommendations for the airline portfolio.
